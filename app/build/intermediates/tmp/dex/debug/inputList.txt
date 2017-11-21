@@ -1,0 +1,5 @@
+D:\Android\AndroidStudioProjects\AgendaContato\app\build\intermediates\classes\debug
+D:\Android\AndroidStudioProjects\AgendaContato\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-aa16b3cf885393ef74ba8407c65bcf20627dd05b.jar
+D:\Android\AndroidStudioProjects\AgendaContato\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-559df4c4c6373fd38bcc38f3fe32a3c1920bc792.jar
+D:\Android\AndroidStudioProjects\AgendaContato\app\build\intermediates\pre-dexed\debug\classes-45276152a0c656a12e74e63a500259f32ac6492b.jar
+D:\Android\AndroidStudioProjects\AgendaContato\app\build\intermediates\pre-dexed\debug\classes-59168147bd987f5b32b23007e22c5a249e4472c2.jar

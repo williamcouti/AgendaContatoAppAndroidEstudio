@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\willian\\Desktop\\AgendaContato\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\willian\\.android\\build-cache\\6a67e80c55727cf7363e45ffa6163151ffd2bab9\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\willian\\Desktop\\AgendaContato\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\willian\\.android\\build-cache\\6a67e80c55727cf7363e45ffa6163151ffd2bab9\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\willian\\Desktop\\AgendaContato\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\willian\\.android\\build-cache\\6a67e80c55727cf7363e45ffa6163151ffd2bab9\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\willian\\Desktop\\AgendaContato\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\willian\\.android\\build-cache\\6a67e80c55727cf7363e45ffa6163151ffd2bab9\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\willian\\Desktop\\AgendaContato\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\willian\\.android\\build-cache\\6a67e80c55727cf7363e45ffa6163151ffd2bab9\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\willian\\Desktop\\AgendaContato\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\willian\\.android\\build-cache\\6a67e80c55727cf7363e45ffa6163151ffd2bab9\\output\\res\\anim\\abc_slide_out_top.xml"
+    }
+]
