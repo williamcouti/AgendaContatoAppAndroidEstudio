@@ -10,10 +10,8 @@
 
     <application
         android:allowBackup="true"
-        android:debuggable="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
-        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
             android:name="br.com.videoaula.agendacontato.ActContato"

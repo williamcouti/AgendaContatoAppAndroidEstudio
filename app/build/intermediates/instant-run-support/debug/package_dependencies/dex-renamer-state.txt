@@ -1,4 +1,13 @@
-#Mon Nov 20 19:05:49 BRST 2017
-base.0=C\:\\Users\\willian\\Desktop\\AgendaContato\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
-path.0=classes.dex
+#Tue Sep 19 21:03:22 BRT 2017
+renamed.3=classes2.dex
+renamed.2=classes4.dex
+renamed.1=classes3.dex
 renamed.0=classes.dex
+base.3=C\:\\Users\\willian\\Desktop\\AgendaContato\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e38f9bb875610ef6ee63b27dd98d641a22e326b4
+base.2=C\:\\Users\\willian\\Desktop\\AgendaContato\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-21.0.3_cfe266ad343f9b09c7d6ebea588348dd55e95d31
+base.1=C\:\\Users\\willian\\Desktop\\AgendaContato\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-21.0.3_e32f92e051a79cf5404308283e83ee640ca750b1
+base.0=C\:\\Users\\willian\\Desktop\\AgendaContato\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5e56e551ce7e162163806e09ccdab1999bca63e4
+file.3=C\:\\Users\\willian\\Desktop\\AgendaContato\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e38f9bb875610ef6ee63b27dd98d641a22e326b4\\classes.dex
+file.2=C\:\\Users\\willian\\Desktop\\AgendaContato\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-21.0.3_cfe266ad343f9b09c7d6ebea588348dd55e95d31\\classes.dex
+file.1=C\:\\Users\\willian\\Desktop\\AgendaContato\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-21.0.3_e32f92e051a79cf5404308283e83ee640ca750b1\\classes.dex
+file.0=C\:\\Users\\willian\\Desktop\\AgendaContato\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5e56e551ce7e162163806e09ccdab1999bca63e4\\classes.dex

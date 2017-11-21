@@ -1,40 +1,28 @@
 -- Merging decision tree log ---
 manifest
 ADDED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml:2:1-25:12
-MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\willian\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\da3c647e4729282db8d8ced42956f9ad\AndroidManifest.xml:14:4-17:12
-MERGED from [com.android.support:support-v4:21.0.3] C:\Users\willian\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\9593d25c5486ad3ec661a0409ca887b8\AndroidManifest.xml:14:4-17:12
-INJECTED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml:2:1-25:12
 	package
 		ADDED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml:3:5-45
 		INJECTED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml:2:1-25:12
-		INJECTED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml
-	android:versionCode
-		INJECTED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml:2:1-25:12
 		INJECTED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml
 application
 ADDED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml:5:5-23:19
-MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\willian\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\da3c647e4729282db8d8ced42956f9ad\AndroidManifest.xml:16:5-19
-MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\willian\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\da3c647e4729282db8d8ced42956f9ad\AndroidManifest.xml:16:5-19
-MERGED from [com.android.support:support-v4:21.0.3] C:\Users\willian\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\9593d25c5486ad3ec661a0409ca887b8\AndroidManifest.xml:16:5-19
-MERGED from [com.android.support:support-v4:21.0.3] C:\Users\willian\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\9593d25c5486ad3ec661a0409ca887b8\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\willian\.android\build-cache\6a67e80c55727cf7363e45ffa6163151ffd2bab9\output\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\willian\.android\build-cache\c0f1e8346bd0562b54b40b4bc8c5247fae14ebe8\output\AndroidManifest.xml:16:5-19
 	android:label
 		ADDED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml:8:9-41
-	android:icon
-		ADDED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml:7:9-45
 	android:allowBackup
 		ADDED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml:7:9-45
 	android:theme
 		ADDED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml:9:9-40
 activity#br.com.videoaula.agendacontato.ActContato
@@ -61,19 +49,11 @@ ADDED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.x
 		ADDED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml:20:13-43
 uses-sdk
 INJECTED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\willian\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\da3c647e4729282db8d8ced42956f9ad\AndroidManifest.xml:15:5-42
-MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\willian\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\da3c647e4729282db8d8ced42956f9ad\AndroidManifest.xml:15:5-42
-MERGED from [com.android.support:support-v4:21.0.3] C:\Users\willian\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\9593d25c5486ad3ec661a0409ca887b8\AndroidManifest.xml:15:5-42
-MERGED from [com.android.support:support-v4:21.0.3] C:\Users\willian\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\9593d25c5486ad3ec661a0409ca887b8\AndroidManifest.xml:15:5-42
-INJECTED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\willian\.android\build-cache\6a67e80c55727cf7363e45ffa6163151ffd2bab9\output\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\willian\.android\build-cache\c0f1e8346bd0562b54b40b4bc8c5247fae14ebe8\output\AndroidManifest.xml:15:5-42
 	android:targetSdkVersion
 		INJECTED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\willian\Desktop\AgendaContato\app\src\main\AndroidManifest.xml
